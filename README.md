@@ -7,3 +7,5 @@
 You can reach me through the following channels:
 
 - **Email**: [click here](mailto:muhiddinovabdulhodiy2@gmail.com)
+
+** Come join my new AI Community **
