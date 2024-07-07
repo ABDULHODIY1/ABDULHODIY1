@@ -9,3 +9,4 @@ You can reach me through the following channels:
 - **Email**: [click here](mailto:muhiddinovabdulhodiy2@gmail.com)
 
 **Come join my new AI Community**: **Telegram Group**: [click here](https://t.me/python_ai_group)
+**GitHub Comunity** : [click here](https://github.com/CodeComunty)
