@@ -25,7 +25,7 @@ Let’s build something amazing together.
 Feel free to get in touch:
 
 - 📧 **Email**: [muhiddinovabdulhodiy2@gmail.com](mailto:muhiddinovabdulhodiy2@gmail.com)
-- 🚀 **Telegram**: [[@gojoeditz_tco]([https://t.me/@gojoeditz_tco](https://t.me/gojoeditz_tco))]
+- 🚀 **Telegram**: [@gojoeditz_tco](https://t.me/gojoeditz_tco)
 ---
 
 ## 🌐 Join My AI Community
