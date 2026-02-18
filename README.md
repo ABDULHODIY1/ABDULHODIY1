@@ -14,6 +14,7 @@ I can develop full-featured applications using:
 - **C / C++**
 - **C# (.NET 7)**
 - **Flutter** (for cross-platform mobile & desktop apps)
+- **GO-Basic**
 
 Need a **website**, **AI system**, or **custom software**?  
 Let’s build something amazing together.
